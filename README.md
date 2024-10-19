@@ -47,8 +47,5 @@ This C++ Chat Server-Client application is a simple yet robust implementation of
 ## Contribution
 Contributions are welcome! Feel free to submit issues, pull requests, or suggestions for new features.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 Thanks to the open-source community for their contributions and inspiration in building this application.
